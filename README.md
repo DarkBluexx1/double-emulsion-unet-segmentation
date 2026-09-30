@@ -6,9 +6,7 @@
 
 Training code for the U-Net segmentation model used to extract the
 dispersed-phase jet geometry in a double-emulsion flow-focusing
-microfluidic system. The predicted masks are used for pixel-integrated
-volume measurement and independent left/right interfacial-angle
-extraction in the accompanying manuscript.
+microfluidic system.
 
 ---
 
