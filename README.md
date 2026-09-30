@@ -14,12 +14,6 @@ extraction in the accompanying manuscript.
 
 ## Overview
 
-The pipeline segments the dark dispersed-phase jet from top-down
-microscope images and produces binary masks from which geometric and
-interfacial quantities are subsequently derived. The model is trained
-on manually annotated images and generalizes to unseen experimental
-conditions.
-
 Key features of the implementation:
 
 - Four-channel input: RGB + CLAHE-enhanced grayscale channel
