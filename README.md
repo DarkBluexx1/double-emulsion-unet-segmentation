@@ -30,7 +30,3 @@ Key features of the implementation:
 - Automatic mixed precision and gradient clipping
 - Early stopping on validation Dice
 - Reproducible training via fixed random seed
-
----
-
-## Repository structure
